@@ -12,7 +12,7 @@ a simple terminal-based music player for linux
 
 ---
 
-## 🚀 run
+## run
 
 install dependencies:
 
