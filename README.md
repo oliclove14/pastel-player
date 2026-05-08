@@ -2,6 +2,8 @@
 
 a simple terminal-based music player for linux
 
+![preview](screenshots/preview.png)
+
 ---
 
 ## ✨ features
